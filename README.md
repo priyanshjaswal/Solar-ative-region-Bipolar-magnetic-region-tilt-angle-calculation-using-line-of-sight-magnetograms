@@ -10,4 +10,4 @@ Note:
 x is distance from the left of the image.
 y is distance from the top of the image.
 
-![graphic1](https://github.com/priyanshjaswal/Solar-ative-region-Bipolar-magnetic-region-tilt-angle-calculation-using-line-of-sight-magnetograms/new/main/graphic1.png?raw=true)
+![graphic1](https://github.com/priyanshjaswal/Solar-ative-region-Bipolar-magnetic-region-tilt-angle-calculation-using-line-of-sight-magnetograms/blob/main/graphic1.png?raw=true)
